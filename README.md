@@ -1,9 +1,9 @@
-# Son Goku con CSS3
+# Drawing Son Goku using CSS3
 
-Dibujar con CSS es sorprendente porque los dibujos resultantes son súper ligeros en peso (casi un 90% menos que sus dibujos PNG o JPG equivalentes).
+It's amazing what you can achieve with CSS, you can create very detailed drawings that replicate almost the same things any images can do, and the best thing is that CSS files weight 90% less that traditional `.png` or `.jpeg` files.
 
-## Instruciones
+## 📝 Instructions
 
-Por favor, use su conocimiento de CSS para dibujar la siguiente imagen.
+Please use your CSS knowledge to replicate the following image:
 
 ![Son Goku Image](https://github.com/breatheco-de/exercise-css-drawing-goku/blob/master/preview.gif?raw=true)
