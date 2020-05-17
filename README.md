@@ -6,4 +6,4 @@ Dibujar con CSS es sorprendente porque los dibujos resultantes son súper ligero
 
 Por favor, use su conocimiento de CSS para dibujar la siguiente imagen.
 
-![Son Goku Image](https://projects.breatheco.de/json?slug=instagram-feed-bootstrap&preview)
+![Son Goku Image](https://github.com/breatheco-de/exercise-css-drawing-goku/blob/master/preview.gif?raw=true)
