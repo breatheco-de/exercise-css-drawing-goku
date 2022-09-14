@@ -9,5 +9,7 @@
 	"preview": "https://github.com/breatheco-de/exercise-css-drawing-goku/blob/master/preview.gif?raw=true",
 	"difficulty": "hard",
 	"description" : "Use your CSS knowledge to draw Goku using Position and Display properties.",
-	"talents": []
+	"talents": [],
+    "autoPlay": false,
+    "projectType": "project"
 }
